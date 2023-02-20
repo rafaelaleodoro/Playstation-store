@@ -1,0 +1,17 @@
+.card-rotulo__container{
+position: absolute;
+bottom: 90px;
+right: 0;
+}
+
+.card-rotulo__conteudo{
+	display: flex;
+align-items: center;
+background-color: rgba(0, 0, 0, 0.658);
+color: white;
+font-size: 15px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;
+height: 40px;
+padding: 0px 50px;
+}
